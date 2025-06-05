@@ -1,12 +1,29 @@
-# React + Vite
+# Nike Land 🏀👟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern landing page for Nike, built using **React.js** and **Tailwind CSS**. This project showcases responsive design, animation, and UI elegance inspired by Nike's brand identity.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [https://nike-land-app.netlify.app](https://nike-land-app.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Responsive layout (mobile, tablet, desktop)
+- Clean and modern UI/UX
+- Built with React and Tailwind CSS
+- Custom buttons, transitions, and grid-based layout
+- Optimized for performance and accessibility
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+> *(Optional: Add screenshots here to visually represent your project. You can use GitHub issue uploads or image links from the web.)*
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend library
+- **Tailwind CSS** – Utility-first CSS framework
+- **Vite / Create React App** – (Whichever you used to scaffold)
+- **Netlify** – For deployment
+
+##  Getting Started
+    Clone the repo
+    git clone https://github.com/your-username/nike-land.git
+    cd nike-land
